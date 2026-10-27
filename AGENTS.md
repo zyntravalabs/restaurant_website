@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Restaurant content (menu, hours, gallery, business contact) lives only in src/data/*.ts; pages read from there so a client rebrand is a data edit.
