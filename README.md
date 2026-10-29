@@ -1,24 +1,19 @@
-# Restaurant_Website
+# Ember & Spice — Android Application
 
-create a website
+A luxury Indian Kitchen restaurant application built with **Kotlin** and **Jetpack Compose**, rewritten from the Ember & Spice concept.
 
-This project was built with [Lovable](https://lovable.dev).
+## Features
 
-## Build with Lovable
+- **Home Screen**: Hero section featuring regional culinary highlights (*Tandoor · Dum · Tadka*), signature dishes spotlight, kitchen story introduction, and opening hours schedule.
+- **Menu Screen**: Searchable catalogue with real-time text query filtering, category tabs (*Starters, Vegetarian, Non-Vegetarian, Biryani & Rice, Breads, Desserts, Beverages*), vegetarian-only switch, spice level indicators, and detailed dish view.
+- **Our Story**: The culinary philosophy of regional Indian cooking centered around the clay tandoor, dum handi, and fresh masala roasting.
+- **Gallery**: Category-filtered photography showcase (*Dishes, Kitchen, Interior*) with interactive full-screen photo lightbox viewer with sequential navigation.
+- **Visit & Enquiries**: Weekly opening hours, interactive location directions and address copying, full table enquiry form (guest count, date, time slot, dietary notes), and frequently asked questions accordion.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/c2b27bbb-f169-4753-97e2-23ef31659c5e).
+## Android Architecture
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
+- **Language**: Kotlin 2.0
+- **UI Framework**: Jetpack Compose with Material 3 Design
+- **Theme**: Warm luxury palette (Charcoal, Gold `#E5A93B`, and Spice Red)
+- **Navigation**: Jetpack Compose navigation shell with backstack handling
+- **Assets**: Adaptive custom launcher icon with raster density mipmaps and drawables

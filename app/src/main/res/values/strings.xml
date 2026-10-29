@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ember &amp; Spice</string>
+    <string name="tagline">Indian Kitchen</string>
+    <string name="explore_menu">Explore Menu</string>
+    <string name="plan_visit">Plan Your Visit</string>
+    <string name="reserve_table">Reserve a Table</string>
+    <string name="our_story">Our Story</string>
+    <string name="gallery">Gallery</string>
+    <string name="search_hint">Search dishes or ingredients…</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="non_veg">Non-veg</string>
+</resources>

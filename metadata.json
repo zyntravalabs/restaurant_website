@@ -1,0 +1,6 @@
+{
+  "name": "Ember & Spice",
+  "description": "Indian Kitchen restaurant concept featuring charcoal-fired tandoor, dum biryani, regional curries, rich photo gallery, and table enquiry booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
